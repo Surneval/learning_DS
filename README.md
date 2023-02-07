@@ -1,2 +1,4 @@
-# learning_DS
-My data science learning
+# Learning Data Science Map
+## Programing
+|URL                                                |Name                                        | Status               |
+|[Python] (https://www.udemy.com/course/bestpython/)|Python programming                          | In process           |
