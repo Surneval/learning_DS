@@ -2,4 +2,4 @@
 ## Programing
 |URL                                                |Name                                        | Status               |
 |---------------------------------------------------|--------------------------------------------|----------------------|
-|[Python](https://www.udemy.com/course/bestpython/)|Python programming                          | In process           |
+|[Python](https://www.udemy.com/course/bestpython/)|Python programming| In process|
